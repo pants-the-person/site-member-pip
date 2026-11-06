@@ -1,0 +1,19 @@
+{
+  "name": "site-member-pip",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "pip's first homepage: Pokemon cards, anime, a Pentium II and a guestbook that needs signatures.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.4.5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
